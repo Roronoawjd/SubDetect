@@ -1,6 +1,7 @@
 <div align="center">
   <h1>SubDetect</h1>
 </div>
+<h3 align="center">The SubDetect tool is used for detecting subdomains.</h3>
 
 ## Usage
 
